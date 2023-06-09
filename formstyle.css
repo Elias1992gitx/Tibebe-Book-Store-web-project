@@ -1,0 +1,50 @@
+.parent{
+    width: 30%;
+    height: 80%;
+   margin: 7% auto;
+   padding: 1.2rem;
+   border-radius: 5px;
+   border:none;
+   box-shadow: 1px 2px 5px rgba(57, 57, 57, 0.696);
+    
+}
+
+input{
+padding: 0.8rem 0.4rem;
+border: 0.5px solid rgba(3, 3, 3, 0.74);
+}
+select{
+    padding: 0.8rem 0.4rem;
+}
+
+.shortinput{
+    width: 40%;
+}
+.longinput{
+    width: 85%;
+}
+
+.btn{
+width: 85%;
+margin-left: 1%;
+background-color: rgba(55, 123, 250, 0.998);
+color: white;
+border: none;
+border-radius: 15px;
+}
+.btn:hover{
+    background-color: rgba(57, 125, 250, 0.922);
+}
+
+h1{
+    color: rgba(55, 123, 250, 0.998) ;
+    text-align: center;
+}
+a{
+    color: rgba(55, 123, 250, 0.998) ;
+    text-decoration: none;
+}
+#forget{
+    color: rgba(55, 123, 250, 0.998) ;
+    text-align: center;
+}
